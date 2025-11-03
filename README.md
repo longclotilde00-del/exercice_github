@@ -1,5 +1,5 @@
 # exercice_github 
-coucou git push
+Coucou git push
 nouvelle branche
 exercice de repository git
 
